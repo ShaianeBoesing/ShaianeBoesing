@@ -1,10 +1,10 @@
 ### Oláá, eu sou a Shaiane 👩‍🦰
- <div>
+ <div style="justify-content:center">
   <img height="175em" width="420em" src="https://github-readme-stats.vercel.app/api?username=ShaianeBoesing&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="175em"  width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaianeBoesing&layout=compact&langs_count=7&theme=dracula"/>
   <img heigth="15em" width="140em" src="https://media.giphy.com/media/JXMTJYvGsZ4WnLmKBx/giphy.gif"></img>
 </div>
-<!--  -->
+
 <div>
   
 <hr>  
