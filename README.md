@@ -23,7 +23,9 @@
   <img  src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3 logo" height="90">
   <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap logo" height="80">
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL logo" height="80">
-  <img src="https://cdn.svgporn.com/logos/jquery.svg" alt="Jquery logo" height="50">
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL logo" height="80>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Jquery logo" height="80"
+
 </div>
 
 <h3> Entre em contato comigo</h3>
