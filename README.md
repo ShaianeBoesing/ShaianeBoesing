@@ -1,4 +1,4 @@
-### Oláá, eu sou a Shaiane 👩‍🦰
+### Olá, eu sou a Shaiane 👩‍🦰
 
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShaianeBoesing&show_icons=true&theme=dracula&include_all_commits=true"/>
