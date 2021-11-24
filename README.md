@@ -7,10 +7,10 @@
 
 <h3  width="180em"> Sobre mim </h3>
 <ul>
-  <li> 👩‍💻 Trabalho com Desenvolvimento Web em PHP e Javascript desde maio de 2021 </li>
-  <li> 📚 No momento, aprofundo meus estudos em Laravel </li>
-  <li> 📖 Iniciei meus estudos em 2018 </li>
-  <li> 💻 Sou Técnica em Informática formada pelo IFRS  </li>
+  <li>  Trabalho com Desenvolvimento Web em PHP e Javascript desde maio de 2021 </li>
+  <li>  No momento, aprofundo meus estudos em Laravel </li>
+  <li>  Iniciei meus estudos em 2018 </li>
+  <li> Sou Técnica em Informática formada pelo IFRS  </li>
 </ul>
 
 
