@@ -9,7 +9,7 @@
 <ul>
   <li>  Trabalho com Desenvolvimento Web em PHP e Javascript desde maio de 2021 </li>
   <li>  Estudante de Sistemas de Informação pela Universidade Federal de Santa Catarina </li>
-  <li>  Iniciei meus estudos em 2018 </li>
+  <li>  Iniciei meus estudos em 2018 ao ingressar no IFRS </li>
   <li> Sou Técnica em Informática formada pelo IFRS  </li>
 </ul>
 
