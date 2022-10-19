@@ -3,7 +3,7 @@
 <ul>
   <li>  I'm currently working with Ruby on Rails and learning unit tests </li>
   <li>  I have experience with PHP and Laravel </li>
-  <li>  Also, I had academic contact with Python, Java and JS </li>
+  <li>  Also, I had academic experience with Python, Java and JS </li>
   <li>  Student of Information Systems at Federal University of Santa Catarina </li>
   <li>  Computer Technician by IFRS </li>
 </ul>
