@@ -1,4 +1,4 @@
-### Hi, i'm Shaiane 👩‍🦰
+### Welcome to my GitHub! 👩‍🦰
 
 <ul>
   <li>  I'm currently working with Ruby on Rails and learning unit tests </li>
