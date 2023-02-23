@@ -8,11 +8,6 @@
   <li>  Computer Technician by IFRS </li>
 </ul>
 
-<div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShaianeBoesing&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180" style="align-self:end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaianeBoesing&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <h3> Technologies </h3>
 <div> 
   <img src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby Logo" width="50"> 
