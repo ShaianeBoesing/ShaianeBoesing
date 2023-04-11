@@ -10,7 +10,7 @@
 <br/>
   <li> 💻 I have experience with PHP and Laravel, and I've also worked with Python, Java, and JavaScript in an academic context. </li>
 <br/>
-  <li>  🛠️ Some of the technologies I work with include Ruby, Rails, PHP, Laravel, JavaScript, HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, and jQuery. </li>
+  <li>  🛠️ Some of the technologies I work with include Ruby, Rails, PHP, Laravel, React, JavaScript, HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, and jQuery. </li>
 </ul>
 
 
