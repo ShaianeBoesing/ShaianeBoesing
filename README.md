@@ -3,9 +3,13 @@
 
 <ul>
   <li> 🔭 I'm currently working on a web application using Ruby on Rails and incorporating unit testing into workflow. This project has been a great opportunity for me to expand my knowledge of web development and explore new technologies. </li>
+  <br/>
   <li> 🌱 In addition to my work with Rails, I'm also currently learning React. I'm excited to apply this knowledge to my future projects and continue to develop my skills. </li>
+<br/>
   <li> 🎓 I'm a student of Information Systems at the Federal University of Santa Catarina and a computer technician from the IFRS. </li>
+<br/>
   <li> 💻 I have experience with PHP and Laravel, and I've also worked with Python, Java, and JavaScript in an academic context. </li>
+<br/>
   <li>  🛠️ Some of the technologies I work with include Ruby, Rails, PHP, Laravel, JavaScript, HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, and jQuery. </li>
 </ul>
 
