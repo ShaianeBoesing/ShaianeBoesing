@@ -1,41 +1,23 @@
-### Welcome to my GitHub! 👩‍🦰
+### Hi there! 👋 I'm Shaiane, a software developer based in Brazil.
+
 
 <ul>
-  <li>  I'm currently working with Ruby on Rails and learning unit tests </li>
-  <li>  I have experience with PHP and Laravel </li>
-  <li>  Also, I had academic experience with Python, Java and JS </li>
-  <li>  Student of Information Systems at Federal University of Santa Catarina </li>
-  <li>  Computer Technician by IFRS </li>
+  <li> 🔭 I'm currently working with Ruby on Rails and learning unit testing.c </li>
+  <li> 🌱 In addition to my work with Rails, I'm also currently learning React. I'm excited to apply this knowledge to my future projects and continue to develop my skills. </li>
+  <li> 🎓 I'm a student of Information Systems at the Federal University of Santa Catarina and a computer technician from the IFRS. </li>
+  <li> 💻 I have experience with PHP and Laravel, and I've also worked with Python, Java, and JavaScript in an academic context. </li>
+  <li>  🛠️ Some of the technologies I work with include Ruby, Rails, PHP, Laravel, JavaScript, HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, and jQuery. </li>
 </ul>
 
-<h3> Technologies </h3>
-<div> 
-  <img src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby Logo" width="50"> 
-  <img src="https://cdn.svgporn.com/logos/rails.svg" alt="Rails Logo" width="50"> 
-  <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP Logo" width="50"> 
-  <img  src="https://cdn.svgporn.com/logos/laravel.svg" alt="Laravel logo" height="50">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript logo" width="50">  
-  <img  src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 logo" height="50">
-  <img  src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3 logo" height="50">
-  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap logo" height="50">
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL logo" height="50">
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL logo" height="50>
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Jquery logo" height="50"
 
-</div>
-
-<h3> Contact Me</h3>
+<h3> Get in touch: </h3>
+<div> 💬 If you have any questions or just want to chat about programming, feel free to reach out to me on <a href="https://www.linkedin.com/in/shaiane-boesing-rodrigues-borges-3887941b2/" target="_blank"> LinkedIn  </a>  or via email at <a href="mailto:shaianeboesingrb@gmail.com" target="_blank"> shaianeboesingrb@gmail.com  </a> . You can also check out my code on GitHub. </div>
+<br/>
 <div>  
   <a href="https://www.linkedin.com/in/shaiane-boesing-rodrigues-borges-3887941b2/" target="_blank">
-     <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Linkedin Logo" width="32">
-  </a>
-  <a href="https://github.com/ShaianeBoesing" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="Github Logo" width="35"> 
+     <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Linkedin Logo" width="16">
   </a> 
   <a href="mailto:shaianeboesingrb@gmail.com" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">
+    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="16">
   </a>
 </div>
-
-
-
