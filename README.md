@@ -6,9 +6,9 @@
   <br/>
   <li> 🌱 In addition to my work with Rails, I'm also currently learning React. I'm excited to apply this knowledge to my future projects and continue to develop my skills. </li>
 <br/>
-  <li> 🎓 I'm a student of Information Systems at the Federal University of Santa Catarina and a computer technician from the IFRS. </li>
+  <li> 🎓 I'm a undergraduate of Information Systems at UFSC and a computer technician by IFRS. </li>
 <br/>
-  <li> 💻 I have experience with PHP and Laravel, and I've also worked with Python, Java, and JavaScript in an academic context. </li>
+  <li> 💻 I have experience with PHP and Laravel, and I've also worked with Python, Java, and JavaScript in an academy. </li>
 <br/>
   <li>  🛠️ Some of the technologies I work with include Ruby, Rails, PHP, Laravel, React, JavaScript, HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, and jQuery. </li>
 </ul>
